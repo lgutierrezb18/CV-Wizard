@@ -1,0 +1,81 @@
+/* General Body Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+/* Header Styles */
+header {
+    background-color: #222;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header p {
+    margin: 5px 0;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Section Styles */
+section {
+    background-color: #fff;
+    margin: 20px 0;
+    padding: 10px 0;
+    text-align: center;
+}
+
+section h2 {
+    color: #444;
+    margin-bottom: 10px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Article Styles (For Professional Experience and Projects) */
+article {
+    margin-bottom: 15px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+article h3 {
+    font-size: 1.2em;
+    color: #333;
+    padding: 10px 0;
+    text-align: center;
+}
+
+ul, ol {
+    padding-left: 0; /* Remove padding to center list items */
+    list-style-position: inside; /* Position list bullets inside to keep them centered */
+}
+li {
+    margin-bottom: 5px;
+}
+
+/* Media Query for Printing */
+@media print {
+    body {
+        padding: 0;
+        background-color: #fff;
+        color: #000;
+    }
+
+    header {
+        color: #000;
+        background-color: #fff;
+    }
+}

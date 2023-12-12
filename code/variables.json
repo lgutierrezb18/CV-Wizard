@@ -1,0 +1,15 @@
+{
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "123-456-7890",
+    "website": "www.johndoeportfolio.com",
+    "location": "New York, USA",
+    "professional_profile": "Description and interests go here...",
+    "academic_background": "<li>MSc in Computer Science - XYZ University, 2018-2020 - New York Campus</li><li>BSc in Information Technology - ABC Institute, 2014-2018</li>",
+    "professional_experience": "<article><h3>Senior Developer at TechCorp</h3><p>Area: Software Development | Position: Senior Developer | Jan 2021 - Present</p><p>Detailed description of experience and achievements...</p></article>",
+    "projects": "<article><h3>Automated Testing System</h3><p> May 2022</p><p>A comprehensive testing suite</p><p>Details about the project...</p></article>",
+    "competences_skills": "<li>Advanced proficiency in Java and Python</li><li>Project management and team leadership</li>",
+    "technical_knowledge": "<li>Database Management: SQL, MongoDB</li><li>Cloud Services: AWS, Azure</li>",
+    "courses": "<li>Advanced Web Development - Coursera</li><li>Machine Learning Basics - Udemy</li>",
+    "languages": "<li>English - Native</li><li>Spanish - Intermediate (Ongoing)</li>"
+}
